@@ -68,7 +68,7 @@ void backtrack(int k)   //位置尝试，要求使用递归
 
 
 
-
+//主函数入口 
 int main()
 {  
 	int i;
@@ -80,7 +80,4 @@ int main()
 	printf("\n");
 	printf("一共有%d种方案", count); 
 	return 0;
-
-
-
 }
